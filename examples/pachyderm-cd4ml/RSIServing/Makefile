@@ -1,4 +1,4 @@
-VERSION=0.1.1
+VERSION=0.1.2
 IMAGE_BASE=pachyderm/seldon-pachyderm-rsi-server
 KIND_NAME ?= kind
 

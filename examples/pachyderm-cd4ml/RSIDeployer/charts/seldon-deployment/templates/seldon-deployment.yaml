@@ -10,7 +10,7 @@ spec:
   - componentSpecs:
     - spec:
         containers:
-        - image: pachyderm/seldon-pachyderm-rsi-server:0.1.1
+        - image: pachyderm/seldon-pachyderm-rsi-server:0.1.2
           imagePullPolicy: IfNotPresent
           name: rsi-predictor
           env:
