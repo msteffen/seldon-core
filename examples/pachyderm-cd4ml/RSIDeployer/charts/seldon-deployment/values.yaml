@@ -1,3 +1,6 @@
 model:
   uri: "uri_to_model"
   version: "commit_hash"
+  auth: "noauth"
+  endpoint: "http://pachd.default.svc.cluster.local:600"
+  ssl: "false"
