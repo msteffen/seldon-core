@@ -1,4 +1,4 @@
-VERSION=0.1.2
+VERSION=0.1.4
 IMAGE_BASE=pachyderm/seldon-pachyderm-rsi-deployer
 KIND_NAME ?= kind
 
