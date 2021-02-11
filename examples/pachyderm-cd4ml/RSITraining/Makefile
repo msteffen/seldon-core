@@ -1,5 +1,5 @@
-VERSION=0.1.0
-IMAGE_BASE=seldonio/pachyderm-rsi-trainer
+VERSION=0.1.1
+IMAGE_BASE=pachyderm/seldon-pachyderm-rsi-trainer
 
 KIND_NAME ?= kind
 
